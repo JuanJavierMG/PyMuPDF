@@ -1,3 +1,5 @@
+%include "swig.swg"
+%include "python.swg"
 %module fitz
 %pythonbegin %{
 %}
